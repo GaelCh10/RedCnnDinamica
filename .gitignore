@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+temp_env/
+.env
+
+datos_Mp_LSM/
